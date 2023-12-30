@@ -39,6 +39,7 @@ export const eventIds = {
     "Women's 400m": 10229511,
     "Women's 800m": 10229512,
     "Women's 1500m": 10229513,
+    "Women's Mile": 10229517,
     "Women's 5000m": 10229514,
     "Women's 10,000m": 10229521,
     "Women's 100mH": 10229522,
@@ -58,6 +59,7 @@ export const eventIds = {
     "Women's Heptathlon": 10229536,
     "Women's 4x100m": 204594,
     "Women's 4x400m": 204596,
+    "Women's Cross Country": 10229544,
     "Men's 100m": 10229630,
     "Men's 200m": 10229605,
     "Men's 400m": 10229631,
@@ -82,5 +84,12 @@ export const eventIds = {
     "Men's Decathlon": 10229629,
     "Men's 4x100m": 204593,
     "Men's 4x400m": 204595,
-    "Mixed 4x400m": 10229988
+    "Mens's Cross Country": 10229623,
+    "Mixed 4x400m": 10229988,
+    "Men's Mile Road Race": 10229752,
+    "Men's 5km Road Race": 204597,
+    "Men's Half Marathon": 10229633,
+    "Women's Mile Road Race": 10229753,
+    "Women's 5km Road Race": 204598,
+    "Women's Half Marathon": 1022954
 }

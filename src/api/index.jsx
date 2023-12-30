@@ -25,6 +25,8 @@ export async function getAthletes(country, query) {
         console.log(err);
     })
 
+    console.log("Here");
+    console.log(result);
     return result;
 }
 
